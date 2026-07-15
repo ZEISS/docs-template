@@ -1,6 +1,6 @@
 version: 2
 updates:
-  - package-ecoosystem: npm
+  - package-ecosystem: 'gomod'
     directory: '/'
     schedule:
       interval: 'daily'
