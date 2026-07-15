@@ -10,8 +10,6 @@ This is a [template repository](https://docs.github.com/de/repositories/creating
 
 1. Use the `Use this template` button to create a new repository.
 
-2. Set `BASE_PATH` in `.github/workflows/pages.yml` as your repository name.
+2. Go to **Settings** 👉 **Pages** in your repository.
 
-3. Go to **Settings** 👉 **Pages** in your repository.
-
-4. Select **GitHub Actions** in **Build and deployment**.
+3. Select **GitHub Actions** in **Build and deployment**.
