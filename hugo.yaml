@@ -1,5 +1,5 @@
 languageCode: "en-us"
-title: "Specifications"
+title: "Docs Template"
 
 module:
   imports:
@@ -29,17 +29,6 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
-      weight: 1
-    - identifier: feedback
-      name: Feedback
-      url: https://zeiss.ghe.com/cit/feedback
-      weight: 20
-    - identifier: roadmap
-      name: Roadmap
-      url: https://zeiss.ghe.com/cit/roadmap
-      weight: 20
     - name: Search
       weight: 70
       params:
